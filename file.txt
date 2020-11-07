@@ -7,6 +7,3 @@ nine ten
 eleven twelve
 ----------
 
-june july august
-
-semtember october november
