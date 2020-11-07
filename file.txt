@@ -5,6 +5,3 @@ seven eight
 nine ten
 
 eleven twelve
-----------
-
-july june
